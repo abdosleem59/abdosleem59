@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @abdosleem59
-- 👀 I’m interested in malware analysis
-- 🌱 I’m currently learning Security basics and Django framawork
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in programming && malware analysis
+- 📫 How to reach me: https://www.linkedin.com/in/abdelrahman-selim-%F0%9F%87%B5%F0%9F%87%B8-8648691b6
 
 <!---
 abdosleem59/abdosleem59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
